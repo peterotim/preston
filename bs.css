@@ -1,0 +1,21 @@
+nav {
+    margin: auto;
+    max-width: 760;
+    background-color: #000;
+}
+.navigation {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+.navigation li:first-child {
+    display: block;
+}
+.navigation li {=}
+.navigation a  {}
+.navigation a hover {}
+
+
+@media only screenand (min-width:) {
+    
+}
