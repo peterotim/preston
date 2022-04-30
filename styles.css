@@ -17,6 +17,7 @@
     width: 100%;
     height: 800px;
 }
+<<<<<<< HEAD
 .background-image {
     background-image: url("images/hero.jpg"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
@@ -28,6 +29,8 @@
 
 
 
+=======
+>>>>>>> cc35b456e5197fe5621fc202de68861993da7d24
 
 .topnav {
   overflow: hidden;
